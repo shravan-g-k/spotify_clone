@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:spotify_clone/core/theme/theme.dart';
 import 'package:spotify_clone/features/auth/view/login_page.dart';
-import 'package:spotify_clone/features/auth/view/singup_page.dart';
+
 
 void main() {
   runApp(const MyApp());
